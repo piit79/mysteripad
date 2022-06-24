@@ -1,3 +1,6 @@
 [submodule "42keebs-kicad"]
 	path = 42keebs-kicad
 	url = https://github.com/piit79/42keebs-kicad.git
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/foostan/kbd.git
