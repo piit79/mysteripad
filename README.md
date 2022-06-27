@@ -12,7 +12,7 @@ factor of the [Mysterium keyboard]((https://github.com/piit79/mysterium))
 [Discipline](https://github.com/piit79/discipline) 
 ([original](https://github.com/coseyfannitutti/discipline)).
 
-Mysteripad was inspired by the [Discipad](https://github.com/coseyfannitutti/discipad) by Bryan of [cftkb.com](https://cftkb.com/).
+Mysteripad was inspired by (but is not based on) the [Discipad](https://github.com/coseyfannitutti/discipad) by Bryan of [cftkb.com](https://cftkb.com/).
 
 ## Features
 
@@ -32,7 +32,7 @@ A complete kit will also be available from [42. Keebs](https://42keebs.eu/) soon
 
 ## TODO
 
-* Add PCB bottom plate
+* ~~Add PCB bottom plate~~
 * Add PCB switch plate
 * Create QMK firmware
 * Add BOM
