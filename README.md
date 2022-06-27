@@ -24,9 +24,17 @@ Mysteripad was inspired by (but is not based on) the [Discipad](https://github.c
 
 ¹ To reduce the number of required I/O pins from 8 to 5, any two adjacent encoders share an I/O pin. Therefore, rotating any such encoders at higher speed simultaneously might not work correctly. Other combinations (1-3, 1-4, 2-4) should not be affected.
 
+## Documentation
+
+[Bill of Materials](https://github.com/piit79/mysteripad/tree/main/doc#bill-of-materials)
+and [build guide](https://github.com/piit79/mysteripad/tree/main/doc#build-guide) (coming soon)
+
 ## Kit availability
 
-You can grab the Gerber zip files from [releases](https://github.com/piit79/mysteripad/releases) (coming soon), have the PCBs made at one of the fabs and order all the electronic components at your favourite electronics store.
+You can grab the Gerber zip files from [releases](https://github.com/piit79/mysteripad/releases) 
+(coming soon), have the PCBs made at one of the fabs and order all the 
+[electronic components](https://github.com/piit79/mysteripad/tree/main/doc#bill-of-materials)
+at your favourite electronics store.
 
 A complete kit will also be available from [42. Keebs](https://42keebs.eu/) sooner or later (probably in July 2022).
 
@@ -36,7 +44,8 @@ A complete kit will also be available from [42. Keebs](https://42keebs.eu/) soon
 * ~~Add PCB switch plate~~
 * ~~Add acrylic cover drawing~~
 * Create QMK firmware
-* Add BOM
+* Add Gerber zip files to releases
+* ~~Add BOM~~
 * Add build guide
 
 ## Revision history
