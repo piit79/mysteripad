@@ -33,7 +33,8 @@ A complete kit will also be available from [42. Keebs](https://42keebs.eu/) soon
 ## TODO
 
 * ~~Add PCB bottom plate~~
-* Add PCB switch plate
+* ~~Add PCB switch plate~~
+* Add acrylic cover drawing
 * Create QMK firmware
 * Add BOM
 * Add build guide
