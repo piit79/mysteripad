@@ -2,7 +2,7 @@
 
 #### WARNING: This project is a work in progress and hasn't been validated yet.
 
-<img src="https://github.com/piit79/mysteripad/raw/main/mysteripad_pcb.png" width="300" align="left" alt="Mysteripad PCB" />
+<img src="https://github.com/piit79/mysteripad/raw/main/mysteripad_pcb.png" width="300" align="right" alt="Mysteripad PCB" />
 
 Mysteripad is a through-hole numeric keyboard (or "numpad") matching the form 
 factor of the [Mysterium keyboard]((https://github.com/piit79/mysterium)) 
@@ -29,6 +29,10 @@ Mysteripad was inspired by (but is not based on) the [Discipad](https://github.c
 [Bill of Materials](https://github.com/piit79/mysteripad/tree/main/doc#bill-of-materials)
 and [build guide](https://github.com/piit79/mysteripad/tree/main/doc#build-guide) (coming soon)
 
+## Firmware
+
+QMK firmware can be found in [42. Keebs QMK fork](https://github.com/piit79/qmk_firmware/tree/master/keyboards/42keebs/mysteripad).
+
 ## Kit availability
 
 You can grab the Gerber zip files from [releases](https://github.com/piit79/mysteripad/releases) 
@@ -36,14 +40,14 @@ You can grab the Gerber zip files from [releases](https://github.com/piit79/myst
 [electronic components](https://github.com/piit79/mysteripad/tree/main/doc#bill-of-materials)
 at your favourite electronics store.
 
-A complete kit will also be available from [42. Keebs](https://42keebs.eu/) sooner or later (probably in July 2022).
+A complete kit will also be available from [42. Keebs](https://42keebs.eu/shop/kits/with-discrete-mcu/mysteripad-hotswap-numpad-kit-black-white/) sooner or later (probably in ~~July~~ September 2022).
 
 ## TODO
 
 * ~~Add PCB bottom plate~~
 * ~~Add PCB switch plate~~
 * ~~Add acrylic cover drawing~~
-* Create QMK firmware
+* ~~Create QMK firmware~~
 * Add Gerber zip files to releases
 * ~~Add BOM~~
 * Add build guide
